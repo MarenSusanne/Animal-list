@@ -1,0 +1,11 @@
+#outputAnimals{
+    border: 1px solid black;
+    width: 200px;
+    height: 20px;
+}
+
+.animalCard{
+    width: 20vw;
+    height: 10vh;
+    border: 2px solid;
+}
